@@ -1,0 +1,13 @@
+export const GET_ADD_DATA = "GET_ADD_DATA";
+export const GET_REMOVE_DATA = "GET_REMOVE_DATA";
+export const GET_RESTORE_DATA = "GET_RESTORE_DATA";
+export const GET_DELETE_DATA = "GET_DELETE_DATA";
+export const GET_SEARCH_DATA = "GET_SEARCH_DATA";
+export const GET_SEARCH_WORD = "GET_SEARCH_WORD";
+export const GET_PRICE = "GET_PRICE";
+export const GET_PRICE_DATA = "GET_PRICE_DATA";
+export const GET_UPDATE_DATA = "GET_UPDATE_DATA";
+export const GET_All_DATA = "GET_All_DATA";
+export const GET_FACEBOOK_DATA = "GET_FACEBOOK_DATA";
+export const REMOVE_FACEBOOK_DATA = "REMOVE_FACEBOOK_DATA";
+export const LIKE = "LIKE";
